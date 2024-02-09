@@ -335,6 +335,9 @@ input[type="radio"] {
 		font-size: 30px;
 	}
 
+	.email-signup {
+		max-width: 300px;	
+	}
 	.email-signup button {
 		font-size: 12px;
 		padding: 10px 15px;
